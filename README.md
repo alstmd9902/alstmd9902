@@ -15,7 +15,7 @@
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Styled-components](https://img.shields.io/badge/Styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcn&logoColor=white)
+![shadcn](https://img.shields.io/badge/shadcn-000000?style=flat-square&logo=shadcn&logoColor=white)
 
 ## Tools
 
