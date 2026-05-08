@@ -34,18 +34,3 @@
 ![DevTools](https://img.shields.io/badge/DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-![alstmd9902's GitHub stats](https://github-readme-stats.vercel.app/api?username=alstmd9902&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
-## 📬 Connect with Me
-- **GitHub**: [@alstmd9902](https://github.com/alstmd9902)
-- **Email**: Contact me via GitHub
-
----
-
-⭐ 궁금한 점이 있으시면 언제든 연락주세요!
