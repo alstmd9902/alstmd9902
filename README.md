@@ -5,14 +5,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-- React + TypeScript 기반 프론트엔드 개발
-- 상태 관리 및 API 구조 설계에 관심
-- 사용자 중심 UI/UX 개선 경험
-- 문제를 구조적으로 분석하고 해결하는 개발자
-
----
-
 ## 🛠️ Tech Stack
 
 **Frontend**
